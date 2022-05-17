@@ -3,7 +3,7 @@
     "description": "My Extension",
     "version": "1.0",
     "manifest_version": 3,
-    "permissions": ["activeTab", "scripting", "downloads"],
+    "permissions": ["activeTab", "scripting"],
     "action": {
       "default_popup": "popup.html"
     }

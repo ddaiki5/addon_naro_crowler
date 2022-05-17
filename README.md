@@ -1,6 +1,9 @@
 # addon_naro_crowler
 
+![](https://github.com/ddaiki5/addon_naro_crowler/blob/images/sample.png)
+
 小説家になろうのページからncode、小説タイトル、サブタイトル、作者、本文の情報を一時保存し、CSVとしてダウンロードする
+
 
 ## 使い方
 
